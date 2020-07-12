@@ -7993,8 +7993,8 @@ body {
 }
 
 body {
-    background-color: #ececec;
-    background-image: url(//geeksonrepair.com/wp-content/themes/smartit/images/bg-body.png);
+    background-color: #b1dee1 !important;
+    /*background-image: url(//geeksonrepair.com/wp-content/themes/smartit/images/bg-body.png);*/
     background-repeat: repeat
 }
 
@@ -11172,7 +11172,8 @@ ul.children .comment:first-child {
 }
 
 .copyright {
-    float: left
+    float: left;
+    font-size: 12px;
 }
 
 .developed {
@@ -12037,7 +12038,7 @@ ul.products li.product_col {
 }
 
 #footer p {
-    color: #7d7d7d
+    color: #fff
 }
 
 #footer {
@@ -12053,7 +12054,7 @@ ul.list.type-1 {
 }
 
 #footer a:not(.button) {
-    color: #7b7b7b
+    color: #fff
 }
 
 #footer a:hover {

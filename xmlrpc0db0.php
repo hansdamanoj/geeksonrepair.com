@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://geeksonrepair.com</homePageLink>
+		<homePageLink>http://geeksconnect.com.au</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://geeksonrepair.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://geeksonrepair.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://geeksonrepair.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://geeksonrepair.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://geeksonrepair.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="http://geeksconnect.com.au/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://geeksconnect.com.au/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://geeksconnect.com.au/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="http://geeksconnect.com.au/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="http://geeksconnect.com.au/wp-json/" />
 			</apis>
 	</service>
 </rsd>
